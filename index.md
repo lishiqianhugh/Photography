@@ -19,9 +19,16 @@
 
 ## Colorful Beach, Xinjiang, China
 
-<td width="25%"> <img src="photos/wucantan0.jpg" width="70%">
+<td width="25%"> 
 
-<p></td>
+<p style="text_align:center;">
+
+<img src="photos/wucantan0.jpg" width="70%">
+
+</p>
+
+</td>
+
 
 ## Hemu, Xinjiang, China
 
@@ -33,6 +40,7 @@
       <img src="photos/hemu1.jpg" width="100%">
 </td>
 
-<video width="1000" height="550" controls>
+<video width="700" height="550" controls>
   <source src="photos/hemu2.mp4" type="video/mp4">
 </video>
+
