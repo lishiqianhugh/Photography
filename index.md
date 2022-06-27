@@ -1,4 +1,4 @@
-# Photography
+# Hugh's Photography
 
 ## Sayram Lake, Xinjiang, China
 
