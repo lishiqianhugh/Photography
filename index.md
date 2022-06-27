@@ -1,4 +1,3 @@
-# Photograhpy
 ## Sayram Lake, Xinjiang, China
 <td width="25%">
      <img src="photos/sayram0.jpg" width="100%">
@@ -37,4 +36,3 @@
 <video width="1000" height="550" controls>
   <source src="photos/hemu2.mp4" type="video/mp4">
 </video>
-
