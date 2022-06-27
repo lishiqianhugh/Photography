@@ -6,47 +6,42 @@
 <img alt="" src="photos/sayram0.jpg" style="margin: 0 auto;" />
 </div>
 
-<td width="25%">
-     <img style="margin:0 auto;" src="photos/sayram0.jpg" width="100%">
-</td>
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/sayram1.jpg" style="margin: 0 auto;" />
+</div>
 
-<td width="25%">
-      <img style="max-width:100%;overflow:hidden;" src="photos/sayram1.jpg" width="100%">
-</td>
-
-<td width="25%">
-     <img style="max-width:100%;overflow:hidden;" src="photos/sayram2.jpg" width="100%">
-</td>
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/sayram2.jpg" style="margin: 0 auto;" />
+</div>
 
 ## Kanas, Xinjiang, China
 
-<td width="25%">
-      <img style="max-width:100%;overflow:hidden;" src="photos/kanas0.jpg" width="100%">
-</td>
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/kanas0.jpg" style="margin: 0 auto;" />
+</div>
 
 ## Colorful Beach, Xinjiang, China
 
-<td width="25%"> 
-
-<p style="text_align:center;">
-<img style="margin:0 auto;" src="photos/wucantan0.jpg" width="70%">
-
-</p>
-
-</td>
+<div style="text-align: center; width: 60%;">
+<img alt="" src="photos/wucantan0.jpg" style="margin: 0 auto;" />
+</div>
 
 
 ## Hemu, Xinjiang, China
 
-<td width="25%">
-      <img style="max-width:100%;overflow:hidden;" src="photos/hemu0.jpg" width="100%">
-</td>
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/hemu0.jpg" style="margin: 0 auto;" />
+</div>
 
-<td width="25%">
-      <img style="max-width:100%;overflow:hidden;" src="photos/hemu1.jpg" width="100%">
-</td>
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/hemu1.jpg" style="margin: 0 auto;" />
+</div>
 
-<video width="800" height="650" controls>
+<div style="text-align: center; width: auto;">
+<video width=auto height=auto controls>
   <source style="margin:0 auto;" src="photos/hemu2.mp4" type="video/mp4">
 </video>
+</div>
+
+
 
