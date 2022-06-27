@@ -36,9 +36,8 @@
 <div style="text-align: center; width: auto;">
 <img alt="" src="photos/hemu1.jpg" style="margin: 0 auto;" />
 </div>
-
-<div style="text-align: center; width: auto;">
-<video width=auto height=auto controls>
+<div style="text-align: center;">
+<video width=960 height=540 controls>
   <source style="margin:0 auto;" src="photos/hemu2.mp4" type="video/mp4">
 </video>
 </div>
