@@ -3,7 +3,7 @@
 ## Sayram Lake, Xinjiang, China
 
 <td width="25%">
-     <img style="max-width:100%;overflow:hidden;" src="photos/sayram0.jpg" width="100%">
+     <img style="margin:0 auto;" src="photos/sayram0.jpg" width="100%">
 </td>
 
 <td width="25%">
@@ -25,7 +25,7 @@
 <td width="25%"> 
 
 <p style="text_align:center;">
-<img style="max-width:100%;overflow:hidden;" src="photos/wucantan0.jpg" width="70%">
+<img style="margin:0 auto;" src="photos/wucantan0.jpg" width="70%">
 
 </p>
 
@@ -42,7 +42,7 @@
       <img style="max-width:100%;overflow:hidden;" src="photos/hemu1.jpg" width="100%">
 </td>
 
-<video width="700" height="550" controls>
-  <source style="max-width:100%;overflow:hidden;" src="photos/hemu2.mp4" type="video/mp4">
+<video width="800" height="650" controls>
+  <source style="margin:0 auto;" src="photos/hemu2.mp4" type="video/mp4">
 </video>
 
