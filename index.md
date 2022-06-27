@@ -2,6 +2,10 @@
 
 ## Sayram Lake, Xinjiang, China
 
+<div style="text-align: center; width: auto;">
+<img alt="" src="photos/sayram0.jpg" style="margin: 0 auto;" />
+</div>
+
 <td width="25%">
      <img style="margin:0 auto;" src="photos/sayram0.jpg" width="100%">
 </td>
