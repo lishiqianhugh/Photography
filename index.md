@@ -41,6 +41,7 @@
   <source style="margin:0 auto;" src="photos/hemu2.mp4" type="video/mp4">
 </video>
 </div>
+## A full version of time-lapse photography in Xinjiang
 
-
+https://www.bilibili.com/video/BV1kY4y177T6?spm_id_from=333.999.0.0
 
