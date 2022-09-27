@@ -1,5 +1,3 @@
-# Hugh's Photography
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,9 +12,9 @@
         }
         .box1{
             /* 宽度 */
-            width: 420px;
+            width: 2000px;
             /* 高度 */
-            height: 324px;
+            height: 1600px;
             /* 背景颜色 */
             background: #666666;
             /* 相对html页面定位 */
@@ -99,7 +97,7 @@
 </body>
 </html>
 
-## Sayram Lake, Xinjiang, China
+<!-- ## Sayram Lake, Xinjiang, China
 
 <div style="text-align: center; width: auto;">
 <img alt="" src="photos/sayram0.jpg" style="margin: 0 auto;" />
@@ -134,7 +132,7 @@
 
 <div style="text-align: center; width: auto;">
 <img alt="" src="photos/hemu1.jpg" style="margin: 0 auto;" />
-</div>
+</div> -->
 <div style="text-align: center;">
 <video width=960 height=540 controls>
   <source style="margin:0 auto;" src="photos/hemu2.mp4" type="video/mp4">
