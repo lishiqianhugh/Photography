@@ -98,7 +98,7 @@
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/wucantan0.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/hemu0.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/hemu1.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/东郊民巷.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/东交民巷.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/日落西山.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/未名鸭.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/乌鲁木齐.jpg"  /></div>
