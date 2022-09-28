@@ -11,12 +11,12 @@
 			background-color:#8BC34A;
 		}
 		
-		.div_title{
+<!-- 		.div_title{
 			width:100%;
 			height:100px;
 			background-color:#80DEEA;
 			margin-top:10px;
-		}
+		} -->
 		
 		.div_body{
 			width:100%;
@@ -48,7 +48,7 @@
 			background-color:#FFB300;
 		}
 		
-		.div_headimage{
+<!-- 		.div_headimage{
 			height:100px;
 			width:100px;
 			margin-left:5%;
@@ -71,7 +71,7 @@
                         margin-top:50px;
                         color:#fff;
 			
-		}
+		} -->
                 .div_bodyimage{
 			margin-left:5%;
                         float:left;
