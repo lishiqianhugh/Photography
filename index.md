@@ -68,7 +68,6 @@
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Nature/hemu1.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=455 width=330 src="photos/Nature/东交民巷.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=455 width=330 src="photos/Nature/日落西山.jpg"  /></div>
-		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Nature/未名鸭.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=455 width=330 src="photos/Nature/乌鲁木齐.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=455 width=330 src="photos/Nature/中秋博雅.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Animal/岸上鸭群.jpg"  /></div>
@@ -82,6 +81,7 @@
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/废弃的自行车.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/马卡龙水壶.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/一叶知秋.jpg"  /></div>
+		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Nature/未名鸭.jpg"  /></div>
         </div>
  
 </body>
