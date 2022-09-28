@@ -91,9 +91,9 @@
 	
 	<div class="div_body" >
 	
-        <div class="div_bodyimage" style="margin-left:10%" ><img height=400 width=600 src="photos/sayram0.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=400 width=600 src="photos/sayram1.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=400 width=600 src="photos/sayram2.jpg"  /></div>
+        <div class="div_bodyimage" style="margin-left:10%" ><img height=200 width=300 src="photos/sayram0.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram1.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram2.jpg"  /></div>
         </div>
  
 </body>
