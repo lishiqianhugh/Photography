@@ -83,22 +83,17 @@
  
 <body>
 	<div class="div_top" >
-		<div class="div_menu color-menu1" style="margin-left:5%">相册</div>
-		<div class="div_menu color-menu2" >照片</div>
-		<div class="div_menu color-menu3" >面孔墙</div>
-		<div class="div_menu color-menu4" >视频</div>
+		<div class="div_menu color-menu1" style="margin-left:5%">Nature</div>
+		<div class="div_menu color-menu2" >Animal</div>
+		<div class="div_menu color-menu3" >Portrait</div>
+		<div class="div_menu color-menu4" >Life</div>
 	</div>
 	
-	<div class="div_title" >
-		<div class="div_headimage" ><img height=100 width=100 src="photos/sayram0.jpg"  /></div>
-		<div class="div_headtxt" >手机相册<sub>9张/所有人可见</sup></div>
-                <div class="div_headtxt2" >上传照片/视频</div>
-	</div>
 	<div class="div_body" >
 	
         <div class="div_bodyimage" style="margin-left:10%" ><img height=220 width=220 src="photos/sayram0.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram0.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram0.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram1.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram2.jpg"  /></div>
         </div>
  
 </body>
