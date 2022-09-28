@@ -75,6 +75,10 @@
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Animal/螳螂.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Animal/五彩鸳鸯.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Animal/椅子上的猫.jpg"  /></div>
+		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Portrait/巴铁.jpg"  /></div>
+		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Portrait/高级灰.jpg"  /></div>
+		<div class="div_bodyimage" style="margin-left:5%" ><img height=450 width=300 src="photos/Portrait/清纯风.jpg"  /></div>
+		<div class="div_bodyimage" style="margin-left:5%" ><img height=450 width=300 src="photos/Portrait/摄影师.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/废弃的自行车.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/马卡龙水壶.jpg"  /></div>
 		<div class="div_bodyimage" style="margin-left:5%" ><img height=220 width=330 src="photos/Life/一叶知秋.jpg"  /></div>
