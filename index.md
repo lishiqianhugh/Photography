@@ -91,7 +91,7 @@
 	
 	<div class="div_body" >
 	
-        <div class="div_bodyimage" style="margin-left:10%" ><img height=200 width=300 src="photos/sayram0.jpg"  /></div>
+        <div class="div_bodyimage" style="margin-left:10%" ><img height=200 width=300 src="photos/Nature/sayram0.jpg"  /></div>
         <div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/sayram1.jpg"  /></div>
         <div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/sayram2.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/kanas0.jpg"  /></div>
@@ -103,7 +103,7 @@
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/未名鸭.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/乌鲁木齐.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/中秋博雅.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Animal/岸上群鸭.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Animal/岸上鸭群.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Animal/螳螂.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Animal/五彩鸳鸯.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Animal/椅子上的猫.jpg"  /></div>
