@@ -8,7 +8,7 @@
 		.div_top{
 			width:100%;
 			height:56px;
-			background-color:#8BC34A;
+			background-color:#FFE0B2;
 		}
 		
 		.div_body{
@@ -29,16 +29,16 @@
  
 		}
 		.color-menu1{
-			background-color:#FFE082;
+			background-color:#9CCC65;
 		}
 		.color-menu2{
-			background-color:#FFB300;
+			background-color:#29B6F6;
 		}
 		.color-menu3{
-			background-color:#FFE082;
+			background-color:#7E57C2;
 		}
 		.color-menu4{
-			background-color:#FFB300;
+			background-color:#EF5350;
 		}
 		
                 .div_bodyimage{
