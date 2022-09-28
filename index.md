@@ -102,6 +102,14 @@
 	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/日落西山.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Nature/未名鸭.jpg"  /></div>
 	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Nature/乌鲁木齐.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Nature/中秋博雅.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Animal/岸上群鸭.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Animal/螳螂.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Animal/五彩鸳鸯.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Animal/椅子上的猫.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Life/废弃的自行车.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Life/马卡龙水壶.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Life/一叶知秋.jpg"  /></div>
         </div>
  
 </body>
