@@ -6,20 +6,20 @@
 	
 	<style>
 		.div_top{
-			width:100%;
+			width:150%;
 			height:56px;
 			background-color:#777;
 		}
 		
 		.div_title{
-			width:100%;
+			width:150%;
 			height:100px;
 			background-color:#555;
 			margin-top:10px;
 		}
 		
 		.div_body{
-			width:100%;
+			width:150%;
 			height:1000px;
 			background-color:#555;
 			margin-top:10px;
@@ -91,9 +91,9 @@
 	
 	<div class="div_body" >
 	
-        <div class="div_bodyimage" style="margin-left:10%" ><img height=220 width=220 src="photos/sayram0.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram1.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=220 width=220 src="photos/sayram2.jpg"  /></div>
+        <div class="div_bodyimage" style="margin-left:10%" ><img height=600 width=400 src="photos/sayram0.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=600 width=400 src="photos/sayram1.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=600 width=400 src="photos/sayram2.jpg"  /></div>
         </div>
  
 </body>
