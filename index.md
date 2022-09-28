@@ -94,6 +94,10 @@
         <div class="div_bodyimage" style="margin-left:10%" ><img height=200 width=300 src="photos/sayram0.jpg"  /></div>
         <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram1.jpg"  /></div>
         <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram2.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/kanas0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/wucantan0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/hemu0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/hemu1.jpg"  /></div>
         </div>
  
 </body>
