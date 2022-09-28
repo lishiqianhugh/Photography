@@ -92,12 +92,16 @@
 	<div class="div_body" >
 	
         <div class="div_bodyimage" style="margin-left:10%" ><img height=200 width=300 src="photos/sayram0.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram1.jpg"  /></div>
-        <div class="div_bodyimage" ><img height=200 width=300 src="photos/sayram2.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=200 width=300 src="photos/kanas0.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=450 width=300 src="photos/wucantan0.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=200 width=300 src="photos/hemu0.jpg"  /></div>
-	<div class="div_bodyimage" ><img height=200 width=300 src="photos/hemu1.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/sayram1.jpg"  /></div>
+        <div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/sayram2.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/kanas0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/wucantan0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/hemu0.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=200 width=300 src="photos/Nature/hemu1.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/东郊民巷.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=450 width=300 src="photos/Nature/日落西山.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Nature/未名鸭.jpg"  /></div>
+	<div class="div_bodyimage" ><img height=300 width=200 src="photos/Nature/乌鲁木齐.jpg"  /></div>
         </div>
  
 </body>
