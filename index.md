@@ -8,20 +8,20 @@
 		.div_top{
 			width:100%;
 			height:56px;
-			background-color:#777;
+			background-color:#AED581;
 		}
 		
 		.div_title{
 			width:100%;
 			height:100px;
-			background-color:#555;
+			background-color:#80DEEA;
 			margin-top:10px;
 		}
 		
 		.div_body{
 			width:100%;
-			height:1000px;
-			background-color:#555;
+			height:2000px;
+			background-color:#EEEEEE;
 			margin-top:10px;
 		}
 		
@@ -36,16 +36,16 @@
  
 		}
 		.color-menu1{
-			background-color:#999;
+			background-color:#FFF8E1;
 		}
 		.color-menu2{
-			background-color:#666;
+			background-color:#FFE082;
 		}
 		.color-menu3{
-			background-color:#999;
+			background-color:#FFF8E1;
 		}
 		.color-menu4{
-			background-color:#666;
+			background-color:#FFE082;
 		}
 		
 		.div_headimage{
