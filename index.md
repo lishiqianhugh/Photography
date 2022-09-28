@@ -8,7 +8,7 @@
 		.div_top{
 			width:100%;
 			height:56px;
-			background-color:#AED581;
+			background-color:#8BC34A;
 		}
 		
 		.div_title{
@@ -36,16 +36,16 @@
  
 		}
 		.color-menu1{
-			background-color:#FFF8E1;
+			background-color:#FFE082;
 		}
 		.color-menu2{
-			background-color:#FFE082;
+			background-color:#FFB300;
 		}
 		.color-menu3{
-			background-color:#FFF8E1;
+			background-color:#FFE082;
 		}
 		.color-menu4{
-			background-color:#FFE082;
+			background-color:#FFB300;
 		}
 		
 		.div_headimage{
