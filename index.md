@@ -26,7 +26,7 @@
 		}
 		
 		.div_menu{
-			width:5%;
+			width:10%;
 			height:56px;
 			float:left;
 			font-size:14px;
