@@ -13,7 +13,7 @@
 		
 		.div_body{
 			width:100%;
-			height:3400px;
+			height:3800px;
 			background-color:#EEEEEE;
 			margin-top:10px;
 		}
