@@ -6,20 +6,20 @@
 	
 	<style>
 		.div_top{
-			width:150%;
+			width:100%;
 			height:56px;
 			background-color:#777;
 		}
 		
 		.div_title{
-			width:150%;
+			width:100%;
 			height:100px;
 			background-color:#555;
 			margin-top:10px;
 		}
 		
 		.div_body{
-			width:150%;
+			width:100%;
 			height:1000px;
 			background-color:#555;
 			margin-top:10px;
